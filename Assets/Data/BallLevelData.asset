@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6f5fbcf86d356f4596ed1f0a1b5e412, type: 3}
+  m_Name: BallLevelData
+  m_EditorClassIdentifier: 
+  aName: Geometry
+  thisColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  SpeedUPCost: 0a000000140000001e0000002800000032000000
+  SpeedUPEffect:
+  - 10
+  - 20
+  - 30
+  - 40
+  - 50
+  VisionUPCost: 050000000a0000000f0000001400000019000000
+  VisionUPEffect:
+  - 3
+  - 6
+  - 9
+  - 12
+  - 15
